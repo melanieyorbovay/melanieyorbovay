@@ -1,16 +1,32 @@
-## Hi there 👋
+# Bonjour, je suis Mélanie ! 👋
 
-<!--
-**melanieyorbovay/melanieyorbovay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 En reconversion passionnée vers le Développement Logiciel
 
-Here are some ideas to get you started:
+Bienvenue sur mon GitHub ! Je suis actuellement en formation intensive de développeuse d'applications à l'**IDEC Renens** et j'ai participé à la piscine de l'**École 42 Lausanne**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mon parcours atypique de 15 ans dans les services clients m'a appris la rigueur, la gestion de la pression et le relationnel. Aujourd'hui, je mets cette énergie au service du code.
+
+---
+
+### 💻 Ce que je fais en ce moment
+- 🎓 Formation **Programmeur** à l'IDEC (C#, SQL, .NET)
+- 🧠 Exercices d'algorithmique en **C** (École 42)
+- 🐍 Apprentissage continu de **Python** et de l'écosystème Data
+- 🎮 Exploration de **Swift/Metal** pour le développement de moteurs de jeu (projet personnel)
+
+### 🛠️ Ma Stack Technique
+| Langages | Outils & Environnements |
+| :--- | :--- |
+| **C#** (.NET) | **Git / GitHub** |
+| **Python** (Pandas, Tkinter) | **Visual Studio** / VS Code |
+| **C** (Algorithmique) | **Linux** (Commandes de base) |
+| **SQL** (Bases de données) | **Swift** (Notions) |
+
+---
+
+### 📫 Me contacter
+- 🔗 LinkedIn : [linkedin.com/in/mélanie-bovay-991468388](https://linkedin.com/in/mélanie-bovay-991468388)
+- 📍 Localisation : Canton de Vaud, Suisse (Ouverte aux stages et postes juniors)
+
+---
+
