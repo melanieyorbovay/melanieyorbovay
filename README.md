@@ -18,7 +18,7 @@ Mon parcours atypique de 15 ans dans les services clients m'a appris la rigueur,
 | Langages | Outils & Environnements |
 | :--- | :--- |
 | **C#** (.NET) | **Git / GitHub** |
-| **Python** (Pandas, Tkinter) | **Visual Studio** / VS Code |
+| **Python** (Pandas, Tkinter) | **Visual Studio** / VS Code / Xcode |
 | **C** (Algorithmique) | **Linux** (Commandes de base) |
 | **SQL** (Bases de données) | **Swift** (Notions) |
 
