@@ -40,6 +40,9 @@ Je développe actuellement **BudgetApp**, une application de gestion budgétaire
 | **SQL** (Bases de données) | **macOS, Linux, Windows** |
 | **TypeScript** | **Angular** |
 | **Swift** | **Développement avec IA** (Agents terminaux, génération de code) |
+| **Docker** | **Conteneurisation & Déploiement** |
+
+---
 
 ##  Méthodologie de Développement & IA
 
