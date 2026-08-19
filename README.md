@@ -17,15 +17,16 @@ Je développe actuellement **BudgetApp**, une application de gestion budgétaire
   
 **Consultez mon code :** [Dépôt BudgetApp Frontend](https://github.com/melanieyorbovay/budget-app-front) | [Dépôt API](https://github.com/melanieyorbovay/BudgetApp)
 
-##Autres Projets & Veille Technologique
-- **Swift/Metal:** Exploration pour le développement de moteurs de jeu (projet personnel).
-- Blog de développement :** Suivi de mon apprentissage et articles technique sur [Journal d'une Codeuse](https://journaldunecodeuse.ch).
+## Autres Projets & Veille Technologique
+- **Swift/Metal :** Exploration pour le développement de moteurs de jeu (projet personnel).
+- **Blog de développement :** Suivi de mon apprentissage et articles technique sur [Journal d'une Codeuse](https://journaldunecodeuse.ch).
 
 ---
 
 ###  Me contacter
 - LinkedIn : [linkedin.com/in/mélanie-bovay-991468388](https://linkedin.com/in/mélanie-bovay-991468388)
-- Localisation : Canton de Vaud, Suisse (Ouverte aux stages et postes juniors)
+- Canton de Vaud, Suisse (Disponible pour stages, CDD ou postes juniors)  
+*(Préavis : fin septembre 2026, négociable pour un départ anticipé)*  
 
 ---
 
@@ -38,6 +39,14 @@ Je développe actuellement **BudgetApp**, une application de gestion budgétaire
 | **C** (Algorithmique) | **Shell / Bash** (Commandes avancées) |
 | **SQL** (Bases de données) | **macOS, Linux, Windows** |
 | **TypeScript** | **Angular** |
-| **Swift** | **Notions** |
+| **Swift** | **Développement avec IA** (Agents terminaux, génération de code) |
+
+##  Méthodologie de Développement & IA
+
+Je pratique le développement **augmenté par l'IA** au quotidien pour accélérer l'exploration technique et la résolution de problèmes, tout en maintenant une **vigilance humaine stricte**.
+
+- **Agents IA en Terminal :** J'utilise des agents autonomes dans mon terminal pour automatiser des tâches répétitives et générer du code de base.
+- **Vérification & Compréhension :** Chaque ligne de code générée est systématiquement lue, comprise et validée. L'IA est un **professeur et un accélérateur**, jamais un remplacement de ma logique ou de ma compréhension.
+- **Objectif :** Allier la rapidité de l'IA à la rigueur d'un développeur expérimenté pour livrer du code robuste et maintenable.
 
 
