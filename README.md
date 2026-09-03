@@ -2,15 +2,15 @@
 
 ##  Développeuse Full-Stack .NET & Angular en reconversion active
 
-Bienvenue sur mon profil ! Je viens de terminer en juin 2026 ma formation intensive à l'**IDEC Renens** (spécialisation C# / .NET / SQL) et j'ai participer à la piscine de l'**École 42 Lausanne**. Je transforme mon expertise en gestion de projet en compétences techniques solides.
+Bienvenue sur mon profil ! Je viens de terminer en juin 2026 ma formation intensive à l'**IDEC Renens** (spécialisation C# / .NET / SQL) et j'ai participé à la piscine de l'**École 42 Lausanne**. Je transforme mon expertise en gestion de projet en compétences techniques solides.
 
-Mon parcours atypique de **20 ans dans les services clients** m'a appris la rigueur, la gestion du stress et une capacité d'analyse que je met désormais au service du code.
+Mon parcours atypique de **20 ans dans les services clients** m'a appris la rigueur, la gestion du stress et une capacité d'analyse que je mets désormais au service du code.
 
 ---
 
 **Projet en cours: Migration vers une architecture Full-stack**
 
-Je développe actuellement **BudgetApp**, une application de gestion budgétaire que je migre d'un modèle MVC monolithique vers une architecture **API REST (C#) + Frontend Angular**. Ce projet concret, hébergé sur ce dépôt, démontre ma maitrise de :
+Je développe actuellement **BudgetApp**, une application de gestion budgétaire que je migre d'un modèle MVC monolithique vers une architecture **API REST (C#) + Frontend Angular**. Ce projet concret, hébergé sur mon GitHub, démontre ma maitrise de :
 - La conception d'API ASP.NET Core et la gestion de bases de données SQL Server.
 - Le développement frontend avec Angular (TypeScript, Signals, HttpClient).
 - La résolution de problèmes complexes (CORS, sérialisation EF Core, architecture des données).
@@ -19,7 +19,7 @@ Je développe actuellement **BudgetApp**, une application de gestion budgétaire
 
 ## Autres Projets & Veille Technologique
 - **Swift/Metal :** Exploration pour le développement de moteurs de jeu (projet personnel).
-- **Blog de développement :** Suivi de mon apprentissage et articles technique sur [Journal d'une Codeuse](https://journaldunecodeuse.ch).
+- **Blog de développement :** Suivi de mon apprentissage et articles techniques sur [Journal d'une Codeuse](https://journaldunecodeuse.ch).
 
 ---
 
